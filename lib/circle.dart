@@ -1,5 +1,4 @@
 import'package:flutter/material.dart';
-import 'package:hallo/lemon.dart';
 void main(){
   runApp(MyApp());
 }
